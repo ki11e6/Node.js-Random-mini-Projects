@@ -1,0 +1,11 @@
+{
+  "name": "1.taskmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "sharath",
+  "license": "ISC"
+}
